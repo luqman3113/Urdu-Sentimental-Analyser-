@@ -1,2 +1,2 @@
-# Urdu-Sentimental-Anayser-
+# Urdu-Sentimental-Analyser-
 NLP based udru sentimental analyser model 
